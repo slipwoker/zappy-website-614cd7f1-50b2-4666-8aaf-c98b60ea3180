@@ -1,43 +1,57 @@
-# Business — Generative Engine Optimization Map
+# פאולינה — Generative Engine Optimization Map
+
+> A עיצוב ואדריכלות business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://paulina.zappy5.app
 
 ### פרויקטים
-https://example.com/projects
+https://paulina.zappy5.app/projects
 
 ### פרטי פרויקט
-https://example.com/projects/project-name
+https://paulina.zappy5.app/projects/project-name
 
 ### צור קשר
-https://example.com/contact
+https://paulina.zappy5.app/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://paulina.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://paulina.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://paulina.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About פאולינה
+פאולינה is a business in the עיצוב ואדריכלות industry.
+
+## Target Audience
+- בעלי בתים יוקרתיים
+- זוגות צעירים נשואים
+- מקצועני תעשיית ההייטק
+- משקיעי נדל"ן
+- משפצים ביתיים
+
+## Industry
+עיצוב ואדריכלות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://paulina.zappy5.app/sitemap.xml
+- **Robots.txt**: https://paulina.zappy5.app/robots.txt
